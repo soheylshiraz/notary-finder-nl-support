@@ -45,7 +45,6 @@ Location data is processed locally on your device and is only used to calculate 
 
 If you need help or have questions:
 
-- **Email**: [your-email@example.com]
 - **Issues**: Use the [Issues](https://github.com/[your-username]/notary-finder-nl-support/issues) tab
 - **Response Time**: Within 24-48 hours
 
